@@ -1,16 +1,16 @@
-# 👋 Hello, I'm Ananda Bagaskara Poetra Dwiki
+# 👋 Hello, I'm Ananda Bagaskara Poetra Dwiki👋 
 
 <a href="https://www.linkedin.com/in/ananda-bagaskara-poetra-dwiki-34492b221/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-## 🎯 Objective
+## Objective
 
 Recent Informatics Engineering graduate with strong foundational knowledge in cybersecurity and networking, aspiring to become a Tier 1 SOC Analyst. I have completed hands-on labs and certifications in threat detection, network security, and log analysis, and am building this portfolio to showcase my practical skills and readiness to enter the cybersecurity workforce.
 
 ---
 
-## 🧠 Skills & Projects
+## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +22,7 @@ Recent Informatics Engineering graduate with strong foundational knowledge in cy
 
 ---
 
-## 🛠 Tools
+## Tools
 
 ### Network
 <div>
@@ -30,16 +30,15 @@ Recent Informatics Engineering graduate with strong foundational knowledge in cy
   <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-0B5FFF?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
-### Endpoint & Monitoring
+### Endpoint
 <div>
   <img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Windows_and_Linux_Systems-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
 ### SIEM & Analysis
 <div>
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wazuh_SIEM-006666?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ---
