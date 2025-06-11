@@ -10,7 +10,6 @@ I am a recent Informatics Engineering graduate with a strong interest in cyberse
 
 My journey in Informatic Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
----
 
 ## Skills
 
@@ -22,7 +21,6 @@ My journey in Informatic Engineering has led me to develop a passion for cyberse
 | Web Application Security Awareness            | [Web-Based Cashier Management System](./cashier-management-system) |
 | Report Writing & Incident Handling            | [Incident Reports](./incident-reports) |
 
----
 
 ## Tools
 
@@ -42,7 +40,6 @@ My journey in Informatic Engineering has led me to develop a passion for cyberse
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
----
 
 ## Certifications
 
@@ -56,7 +53,6 @@ My journey in Informatic Engineering has led me to develop a passion for cyberse
 | Jaringan Dasar Komputer | ID-Networkers | 2025 |
 | Microsoft Excel | Skillpedia | 2025 |
 
----
 
 ## Projects
 
@@ -72,7 +68,6 @@ Hands-on practice with OSI/TCP-IP models, IP subnetting, LAN configuration, and 
 ### [Web-Based Cashier Management System](./cashier-management-system)
 Built a .NET-based POS system with SQL backend. Designed ERD and BPMN diagrams and implemented MVC framework.
 
----
 
 ## Contact Me
 
