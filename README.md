@@ -27,12 +27,11 @@ Recent Informatics Engineering graduate with strong foundational knowledge in cy
 ### Network
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-0B5FFF?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-  <img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM & Analysis
@@ -43,7 +42,7 @@ Recent Informatics Engineering graduate with strong foundational knowledge in cy
 
 ---
 
-## 🧾 Certifications
+## Certifications
 
 | Certificate | Provider | Year |
 |------------|----------|------|
@@ -57,23 +56,23 @@ Recent Informatics Engineering graduate with strong foundational knowledge in cy
 
 ---
 
-## 💻 Projects
+## Projects
 
-### 🔐 [TryHackMe - Phishing Simulation](./tryhackme-phishing-simulation)
+### [TryHackMe - Phishing Simulation](./tryhackme-phishing-simulation)
 Investigated a phishing email using email header analysis, malicious URL tracing, and hash identification via VirusTotal. Extracted IOCs and created a detailed incident report.
 
-### 📊 [SOC Analyst Simulation](./tryhackme-soc-simulation)
+### [SOC Analyst Simulation](./tryhackme-soc-simulation)
 Simulated SOC environment using SIEM tools like Splunk and endpoint detection (EDR). Investigated alerts, identified threats, and performed log analysis for incident resolution.
 
-### 🌐 [Cisco Networking Lab](./networking-lab)
+### [Cisco Networking Lab](./networking-lab)
 Hands-on practice with OSI/TCP-IP models, IP subnetting, LAN configuration, and basic firewall rules using Cisco Packet Tracer.
 
-### 💼 [Web-Based Cashier Management System](./cashier-management-system)
+### [Web-Based Cashier Management System](./cashier-management-system)
 Built a .NET-based POS system with SQL backend. Designed ERD and BPMN diagrams and implemented MVC framework.
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - 📧 Email: bagaskaraa408@gmail.com  
 - 📍 Location: East Jakarta, Indonesia  
