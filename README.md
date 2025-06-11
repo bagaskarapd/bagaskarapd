@@ -4,9 +4,11 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+I am a recent Informatics Engineering graduate with a strong interest in cybersecurity. My hands-on experience in TryHackMe labs and Cisco Networking Academy courses have shaped my passion for digital defense. I am currently seeking to grow my career as a Tier 1 SOC Analyst and use this portfolio to showcase my skills and continuous learning.
+
 ## Objective
 
-Recent Informatics Engineering graduate with strong foundational knowledge in cybersecurity and networking, aspiring to become a Tier 1 SOC Analyst. I have completed hands-on labs and certifications in threat detection, network security, and log analysis, and am building this portfolio to showcase my practical skills and readiness to enter the cybersecurity workforce.
+My journey in Informatic Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ---
 
