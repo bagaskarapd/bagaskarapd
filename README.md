@@ -1,60 +1,85 @@
-# Hello, I'm Ananda Bagaskara Poetra Dwiki
-<a href="https://linkedin.com](https://www.linkedin.com/in/ananda-bagaskara-poetra-dwiki-34492b221/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋 Hello, I'm Ananda Bagaskara Poetra Dwiki
 
-[Brief Introduction - Remove this afterwards]
+<a href="https://www.linkedin.com/in/ananda-bagaskara-poetra-dwiki-34492b221/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## 🎯 Objective
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+Recent Informatics Engineering graduate with strong foundational knowledge in cybersecurity and networking, aspiring to become a Tier 1 SOC Analyst. I have completed hands-on labs and certifications in threat detection, network security, and log analysis, and am building this portfolio to showcase my practical skills and readiness to enter the cybersecurity workforce.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 🧠 Skills & Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM and Log Analysis                         | [TryHackMe SOC Analyst Simulation](./tryhackme-soc-simulation) |
+| Phishing Investigation & Email Analysis       | [TryHackMe Phishing Simulation](./tryhackme-phishing-simulation) |
+| Network Design & Basic Security Configuration | [Cisco Networking Lab](./networking-lab) |
+| Web Application Security Awareness            | [Web-Based Cashier Management System](./cashier-management-system) |
+| Report Writing & Incident Handling            | [Incident Reports](./incident-reports) |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+---
+
+## 🛠 Tools
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-0B5FFF?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint & Monitoring
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows_and_Linux_Systems-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM & Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh_SIEM-006666?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+---
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## 🧾 Certifications
+
+| Certificate | Provider | Year |
+|------------|----------|------|
+| SOC Analyst Level 1 | TryHackMe | 2025 |
+| Cyber Security 101 | TryHackMe | 2025 |
+| Pre Security | TryHackMe | 2025 |
+| Networking Basic | Cisco Networking Academy | 2025 |
+| Introduction to Cybersecurity | Cisco Networking Academy | 2025 |
+| Jaringan Dasar Komputer | ID-Networkers | 2025 |
+| Microsoft Excel | Skillpedia | 2025 |
+
+---
+
+## 💻 Projects
+
+### 🔐 [TryHackMe - Phishing Simulation](./tryhackme-phishing-simulation)
+Investigated a phishing email using email header analysis, malicious URL tracing, and hash identification via VirusTotal. Extracted IOCs and created a detailed incident report.
+
+### 📊 [SOC Analyst Simulation](./tryhackme-soc-simulation)
+Simulated SOC environment using SIEM tools like Splunk and endpoint detection (EDR). Investigated alerts, identified threats, and performed log analysis for incident resolution.
+
+### 🌐 [Cisco Networking Lab](./networking-lab)
+Hands-on practice with OSI/TCP-IP models, IP subnetting, LAN configuration, and basic firewall rules using Cisco Packet Tracer.
+
+### 💼 [Web-Based Cashier Management System](./cashier-management-system)
+Built a .NET-based POS system with SQL backend. Designed ERD and BPMN diagrams and implemented MVC framework.
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: bagaskaraa408@gmail.com  
+- 📍 Location: East Jakarta, Indonesia  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ananda-bagaskara-poetra-dwiki-34492b221/)
+
+---
+
+> *"I believe security is not a product, but a continuous process. I'm here to learn, adapt, and help secure digital assets one log at a time."*
