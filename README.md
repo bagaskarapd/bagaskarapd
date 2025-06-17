@@ -55,6 +55,8 @@ My journey in Informatic Engineering has led me to develop a passion for cyberse
 
 
 ## Projects
+### [Setting Up a SIEM for Threat Detection](https://github.com/bagaskarapd/Setting-Up-SIEM)
+Practiced ingesting system logs, writing useful SPL queries, and building basic alert mechanisms to simulate threat detection.
 
 ### [TryHackMe - Phishing Simulation](./tryhackme-phishing-simulation)
 Investigated a phishing email using email header analysis, malicious URL tracing, and hash identification via VirusTotal. Extracted IOCs and created a detailed incident report.
@@ -62,11 +64,7 @@ Investigated a phishing email using email header analysis, malicious URL tracing
 ### [SOC Analyst Simulation](./tryhackme-soc-simulation)
 Simulated SOC environment using SIEM tools like Splunk and endpoint detection (EDR). Investigated alerts, identified threats, and performed log analysis for incident resolution.
 
-### [Cisco Networking Lab](./networking-lab)
-Hands-on practice with OSI/TCP-IP models, IP subnetting, LAN configuration, and basic firewall rules using Cisco Packet Tracer.
 
-### [Web-Based Cashier Management System](./cashier-management-system)
-Built a .NET-based POS system with SQL backend. Designed ERD and BPMN diagrams and implemented MVC framework.
 
 
 ## Contact Me
