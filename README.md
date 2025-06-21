@@ -58,11 +58,11 @@ My journey in Informatic Engineering has led me to develop a passion for cyberse
 ### [Setting Up a SIEM for Threat Detection](https://github.com/bagaskarapd/Setting-Up-SIEM)
 Practiced ingesting system logs, writing useful SPL queries, and building basic alert mechanisms to simulate threat detection.
 
+### [Home Lab Attack Simulation & Telemetry Generation](./tryhackme-soc-simulation)
+Setting up an attack simulation in a home lab environment and generating telemetry and configure virtual machines (VMs) in VirtualBox for safe testing and malware analysis.
+
 ### [TryHackMe - Phishing Simulation](./tryhackme-phishing-simulation)
 Investigated a phishing email using email header analysis, malicious URL tracing, and hash identification via VirusTotal. Extracted IOCs and created a detailed incident report.
-
-### [SOC Analyst Simulation](./tryhackme-soc-simulation)
-Simulated SOC environment using SIEM tools like Splunk and endpoint detection (EDR). Investigated alerts, identified threats, and performed log analysis for incident resolution.
 
 
 
