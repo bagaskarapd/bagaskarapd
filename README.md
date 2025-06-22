@@ -15,11 +15,10 @@ My journey in Informatic Engineering has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM and Log Analysis                         | [TryHackMe SOC Analyst Simulation](./tryhackme-soc-simulation) |
+| SIEM and Log Analysis                         | [Home Lab Attack Simulation & Telemetry Generation](https://github.com/bagaskarapd/Attack-Simulation) |
 | Phishing Investigation & Email Analysis       | [TryHackMe Phishing Simulation](./tryhackme-phishing-simulation) |
 | Network Design & Basic Security Configuration | [Cisco Networking Lab](./networking-lab) |
-| Web Application Security Awareness            | [Web-Based Cashier Management System](./cashier-management-system) |
-| Report Writing & Incident Handling            | [Incident Reports](./incident-reports) |
+| Report Writing & Incident Handling            | [Home Lab Attack Simulation & Telemetry Generation](https://github.com/bagaskarapd/Attack-Simulation) |
 
 
 ## Tools
@@ -58,7 +57,7 @@ My journey in Informatic Engineering has led me to develop a passion for cyberse
 ### [Setting Up a SIEM for Threat Detection](https://github.com/bagaskarapd/Setting-Up-SIEM)
 Practiced ingesting system logs, writing useful SPL queries, and building basic alert mechanisms to simulate threat detection.
 
-### [Home Lab Attack Simulation & Telemetry Generation](./tryhackme-soc-simulation)
+### [Home Lab Attack Simulation & Telemetry Generation](https://github.com/bagaskarapd/Attack-Simulation)
 Setting up an attack simulation in a home lab environment and generating telemetry and configure virtual machines (VMs) in VirtualBox for safe testing and malware analysis.
 
 ### [TryHackMe - Phishing Simulation](./tryhackme-phishing-simulation)
