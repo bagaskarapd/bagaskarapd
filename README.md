@@ -12,15 +12,17 @@ My journey in Informatic Engineering has led me to develop a passion for cyberse
 
 ## Tools
 
-### Network
+### Networking
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-dcf3f7?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nessus-15496a?&style=for-the-badge&logo=Nessus&logoColor=white" />
 </div>
 
-### SIEM & Analysis
+### SIEM
 <div>
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Projects
