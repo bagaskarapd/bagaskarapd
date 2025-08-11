@@ -10,17 +10,6 @@ I am a recent Informatics Engineering graduate with a strong interest in cyberse
 
 My journey in Informatic Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM and Log Analysis                         | [Home Lab Attack Simulation & Telemetry Generation](https://github.com/bagaskarapd/Attack-Simulation) |
-| Phishing Investigation & Email Analysis       | [TryHackMe Phishing Simulation](./tryhackme-phishing-simulation) |
-| Network Design & Basic Security Configuration | [Cisco Networking Lab](./networking-lab) |
-| Report Writing & Incident Handling            | [Home Lab Attack Simulation & Telemetry Generation](https://github.com/bagaskarapd/Attack-Simulation) |
-
-
 ## Tools
 
 ### Network
@@ -38,20 +27,6 @@ My journey in Informatic Engineering has led me to develop a passion for cyberse
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
-
-## Certifications
-
-| Certificate | Provider | Year |
-|------------|----------|------|
-| SOC Analyst Level 1 | TryHackMe | 2025 |
-| Cyber Security 101 | TryHackMe | 2025 |
-| Pre Security | TryHackMe | 2025 |
-| Networking Basic | Cisco Networking Academy | 2025 |
-| Introduction to Cybersecurity | Cisco Networking Academy | 2025 |
-| Jaringan Dasar Komputer | ID-Networkers | 2025 |
-| Microsoft Excel | Skillpedia | 2025 |
-
 
 ## Projects
 ### [Setting Up a SIEM for Threat Detection](https://github.com/bagaskarapd/Setting-Up-SIEM)
