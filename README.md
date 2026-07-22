@@ -66,6 +66,9 @@ I'm open to remote and international roles in IAM, PAM, or identity security.
 ### [AD User Enable and Account Extension Automation](https://github.com/bagaskarapd/ad-enable-user-password-reset)
 PowerShell script for bulk enabling AD users, extending account expiration dates, and resetting passwords. Built and used in a production banking environment. Handles smart expiration logic, automated password generation, and outputs a full report per user.
 
+### [AD User Offboarding: Batch Delete](https://github.com/bagaskarapd/ad-user-offboarding-delete)
+PowerShell tool that looks up a batch of usernames across a multi-domain Active Directory forest and removes the matched accounts. Built for leaver/offboarding requests, with a mandatory dry-run mode and a full CSV audit log before anything destructive runs.
+
 ### [Setting Up a SIEM for Threat Detection](https://github.com/bagaskarapd/Setting-Up-SIEM)
 Configured Splunk to ingest system logs, wrote SPL queries, and built alert rules for brute-force detection.
 
@@ -76,11 +79,11 @@ Built a virtual SOC environment using Kali Linux, Metasploit, and Sysmon for att
 
 ## Certifications
 
-- SOC Analyst Level 1 — TryHackMe (2025)
-- Cybersecurity Bootcamp — PT Visionet Data Internasional (2025)
-- Digital Talent Scholarship, Cybersecurity — Kominfo (2025)
-- Networking Basics — Cisco Networking Academy (2025)
-- Introduction to Cybersecurity — Cisco Networking Academy (2025)
+- SOC Analyst Level 1, TryHackMe (2025)
+- Cybersecurity Bootcamp, PT Visionet Data Internasional (2025)
+- Digital Talent Scholarship, Cybersecurity, Kominfo (2025)
+- Networking Basics, Cisco Networking Academy (2025)
+- Introduction to Cybersecurity, Cisco Networking Academy (2025)
 
 ---
 
