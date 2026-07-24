@@ -64,7 +64,7 @@ I'm open to remote and international roles in IAM, PAM, or identity security.
 ## Projects
 
 ### [AD User Enable and Account Extension Automation](https://github.com/bagaskarapd/ad-enable-user-password-reset)
-PowerShell script for bulk enabling AD users, extending account expiration dates, and resetting passwords. Built and used in a production banking environment. Handles smart expiration logic, automated password generation, and outputs a full report per user.
+PowerShell script for bulk enabling AD users, extending account expiration dates, and resetting passwords. Handles threshold-based expiration logic per account type, automated password generation, and outputs a full report per user.
 
 ### [AD User Offboarding: Batch Delete](https://github.com/bagaskarapd/ad-user-offboarding-delete)
 PowerShell tool that looks up a batch of usernames across a multi-domain Active Directory forest and removes the matched accounts. Built for leaver/offboarding requests, with a mandatory dry-run mode and a full CSV audit log before anything destructive runs.
